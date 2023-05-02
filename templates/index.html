@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Решение квадратных уравнений</title>
+  </head>
+  <body>
+    <h1>Решение квадратных уравнений</h1>
+    <form method="POST" action="{{ url_for('solve') }}">
+      <label for="a">a:</label>
+      <input type="number" name="a" id="a"><br><br>
+      <label for="b">b:</label>
+      <input type="number" name="b" id="b"><br><br>
+      <label for="c">c:</label>
+      <input type="number" name="c" id="c"><br><br>
+      <input type="submit" value="Решить">
+    </form>
+    <p>Дискриминант: {{discriminant}}</p>
+    <p>x1 = {{root1}}</p>
+    <p>x2 = {{root2}}</p>
+  </body>
+</html>
