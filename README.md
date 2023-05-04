@@ -5,4 +5,4 @@
 
 Задача: Нахождение корней квадратного уравнения.
 
-![Screenshot_33](https://user-images.githubusercontent.com/102524912/236185693-8d9ba785-8912-4d60-9310-ec15b855637e.png)
+![Screenshot_34](https://user-images.githubusercontent.com/102524912/236186500-8664d299-9f4b-471a-bbbd-84d50470832a.png)
