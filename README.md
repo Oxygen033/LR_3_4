@@ -1,6 +1,8 @@
 # LR_3
 Лабораторная работа №3. Вариант 6.
+
 Приложение на Python с использованием фреймворка Flask.
+
 Задача: Нахождение корней квадратного уравнения.
 
-![screen](https://user-images.githubusercontent.com/102524912/235673006-177588b8-f373-468d-821d-4ba4f185efab.png)
+![Screenshot_33](https://user-images.githubusercontent.com/102524912/236185693-8d9ba785-8912-4d60-9310-ec15b855637e.png)
