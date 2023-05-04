@@ -6,3 +6,9 @@
 Задача: Нахождение корней квадратного уравнения.
 
 ![Screenshot_34](https://user-images.githubusercontent.com/102524912/236186500-8664d299-9f4b-471a-bbbd-84d50470832a.png)
+
+Лабораторная работа №4.
+
+Задача: Написать unit тесты для своего варианта из лабораторной работы №3.
+
+![Screenshot_39](https://user-images.githubusercontent.com/102524912/236262171-61ae5835-0ead-4cf9-8790-5603b9df3281.png)
